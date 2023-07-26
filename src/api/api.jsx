@@ -6,4 +6,4 @@ export const api = axios.create(
     }
 );
 
-export const api_key = 'c1a34462602cf79e7c7370a0189a9d35';
+export const api_key = '//generate your own api key and add it here';
