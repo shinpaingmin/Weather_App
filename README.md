@@ -1,3 +1,7 @@
+# Project Structure
+This project was created by using different hooks(useState, useEffect) for state management, openweather api, react-clock from npm package.
+This project was structured by using different components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
